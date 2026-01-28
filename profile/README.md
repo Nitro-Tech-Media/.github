@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1920" height="900" alt="Nitro Tech Media Banner" src="https://your-banner-image-url-here" />
+<img width="1920" height="900" alt="Nitro Tech Media Banner" src="images/banner.png" />
 
 <br>
 
