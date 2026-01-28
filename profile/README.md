@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1920" height="900" alt="Nitro Tech Media Banner" src="images/banner.png" />
+<img width="1920" height="900" alt="Nitro Tech Media Banner" src="../images/banner.png" />
 
 <br>
 
@@ -72,6 +72,47 @@ We focus on **performance, maintainability, and long-term scalability**—whethe
     </td>
   </tr>
 </table>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🎨 Our Services
+
+</div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="400" alt="Web Design & Development" src="../images/ad4.jpg" />
+      <br/><br/>
+      <b>Web Design & Development</b>
+    </td>
+    <td align="center">
+      <img width="400" alt="Custom Software & App Development" src="../images/ad2.jpg" />
+      <br/><br/>
+      <b>Custom Software & App Development</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" alt="AI & Business Automations" src="../images/ad3.jpg" />
+      <br/><br/>
+      <b>AI & Business Automations</b>
+    </td>
+    <td align="center">
+      <img width="400" alt="Website Maintenance & Support" src="../images/ad1.jpg" />
+      <br/><br/>
+      <b>Website Maintenance & Support</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
